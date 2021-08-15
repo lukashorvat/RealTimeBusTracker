@@ -6,6 +6,11 @@ This is my Real Time Bus Tracker project consisting of a .html, .js and .css fil
 Roadmap:
 
 In the future I would like to improve this program even more and introduce a 'live tracking' element whereby a user can track multiple different buses in real time. I would also like to consider the commercial applications of such a program.
+
+How to download code:  
+
+Please watch the following video for instructions on how to clone this repository to your computer:  https://www.youtube.com/watch?v=O72FWNeO-xY
+
 License:
 
 MIT License
